@@ -7,8 +7,8 @@
   "author": {
     "name": "Stats Company",
     "email": "support@songstats.com",
-    "url": "https://stats.company"
+    "url": "https://socialstats.com"
   },
-  "homepage": "https://developers.stats.company/mcp#socialstats",
+  "homepage": "https://github.com/Songstats/claude-plugins/tree/main/plugins/socialstats",
   "keywords": ["socialstats", "creator", "social", "analytics", "mcp"]
 }

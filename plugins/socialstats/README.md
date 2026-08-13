@@ -28,5 +28,7 @@ access, or an eligible Socialstats Enterprise API agreement. Successful
 analytics reads retain the normal request, search, and object accounting of the
 agreement that serves the request.
 
-Setup, privacy, terms, and support information is available at
-<https://developers.stats.company/mcp#socialstats>.
+Privacy and terms are available at
+<https://socialstats.com/privacy-policy> and
+<https://socialstats.com/terms-of-service>. For setup or account support,
+contact <support@socialstats.com>.

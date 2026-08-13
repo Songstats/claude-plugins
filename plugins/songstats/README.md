@@ -28,5 +28,7 @@ Songstats Enterprise API agreement. Successful analytics reads retain the
 normal request, search, and object accounting of the agreement that serves the
 request.
 
-Setup, privacy, terms, and support information is available at
-<https://developers.stats.company/mcp#songstats>.
+Privacy and terms are available at
+<https://songstats.com/privacy-policy> and
+<https://songstats.com/terms-of-service>. For setup or account support, contact
+<support@songstats.com>.

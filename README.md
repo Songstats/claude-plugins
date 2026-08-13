@@ -35,8 +35,12 @@ Connectors** when available.
 
 ## Support and policies
 
-Setup, privacy, terms, and support information is available at
-<https://developers.stats.company/mcp>.
+The product privacy policies explicitly cover OAuth and MCP connections:
+
+- Songstats: <https://songstats.com/privacy-policy>
+- Socialstats: <https://socialstats.com/privacy-policy>
+
+For support, contact <support@songstats.com> or <support@socialstats.com>.
 
 ## License
 
