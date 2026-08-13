@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "songstats": {
+      "type": "http",
+      "url": "https://api.songstats.com/mcp",
+      "oauth": {
+        "scopes": "mcp:read enterprise:read"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "socialstats",
+  "displayName": "Socialstats",
+  "version": "1.0.0",
+  "description": "Analyze authorized creator, audience, social performance, public-content, and post data through Socialstats.",
+  "author": {
+    "name": "Stats Company",
+    "email": "support@songstats.com",
+    "url": "https://stats.company"
+  },
+  "homepage": "https://developers.stats.company/mcp#socialstats",
+  "keywords": ["socialstats", "creator", "social", "analytics", "mcp"]
+}

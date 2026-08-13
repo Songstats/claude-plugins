@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "songstats",
+  "displayName": "Songstats",
+  "version": "1.0.0",
+  "description": "Analyze authorized music performance, catalog, audience, playlist, curator, and release data through Songstats.",
+  "author": {
+    "name": "Stats Company",
+    "email": "support@songstats.com",
+    "url": "https://stats.company"
+  },
+  "homepage": "https://developers.stats.company/mcp#songstats",
+  "keywords": ["songstats", "music", "analytics", "mcp"]
+}

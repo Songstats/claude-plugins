@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "socialstats": {
+      "type": "http",
+      "url": "https://api.socialstats.com/mcp",
+      "oauth": {
+        "scopes": "mcp:read enterprise:read"
+      }
+    }
+  }
+}

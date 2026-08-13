@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "stats-company",
+  "version": "1.0.0",
+  "description": "Official Songstats and Socialstats analytics plugins for Claude.",
+  "owner": {
+    "name": "Stats Company",
+    "email": "support@songstats.com",
+    "url": "https://stats.company"
+  },
+  "plugins": [
+    {
+      "name": "songstats",
+      "displayName": "Songstats",
+      "source": "./plugins/songstats",
+      "description": "Analyze authorized music performance, catalog, audience, playlist, curator, and release data through Songstats.",
+      "category": "data",
+      "tags": ["music", "analytics", "mcp"]
+    },
+    {
+      "name": "socialstats",
+      "displayName": "Socialstats",
+      "source": "./plugins/socialstats",
+      "description": "Analyze authorized creator, audience, social performance, public-content, and post data through Socialstats.",
+      "category": "data",
+      "tags": ["creator", "social", "analytics", "mcp"]
+    }
+  ]
+}
