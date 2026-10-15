@@ -6,9 +6,15 @@
   "description": "Analyze authorized creator, audience, social performance, public-content, and post data through Socialstats.",
   "author": {
     "name": "Stats Company",
-    "email": "support@songstats.com",
+    "email": "support@socialstats.com",
     "url": "https://socialstats.com"
   },
   "homepage": "https://github.com/Songstats/claude-plugins/tree/main/plugins/socialstats",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://socialstats.com/privacy-policy",
+  "repository": "https://github.com/Songstats/claude-plugins",
+  "documentationUrl": "https://github.com/Songstats/claude-plugins/tree/main/plugins/socialstats",
+  "supportUrl": "https://help.socialstats.com",
+  "termsOfServiceUrl": "https://socialstats.com/terms-of-service",
   "keywords": ["socialstats", "creator", "social", "analytics", "mcp"]
 }

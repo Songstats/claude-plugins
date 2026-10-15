@@ -28,6 +28,15 @@ access, or an eligible Socialstats Enterprise API agreement. Successful
 analytics reads retain the normal request, search, and object accounting of the
 agreement that serves the request.
 
+## Example prompts
+
+- Show my creator's Instagram follower growth over the last 30 days, and
+  compare it with the previous 30 days.
+- Which YouTube, Instagram, or TikTok posts drove the most engagement for my
+  creator this month?
+- Compare audience growth and top countries for two creators I can access over
+  the last 90 days.
+
 Privacy and terms are available at
 <https://socialstats.com/privacy-policy> and
 <https://socialstats.com/terms-of-service>. For setup or account support,
