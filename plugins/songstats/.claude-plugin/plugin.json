@@ -10,5 +10,7 @@
     "url": "https://songstats.com"
   },
   "homepage": "https://github.com/Songstats/claude-plugins/tree/main/plugins/songstats",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://songstats.com/privacy-policy",
   "keywords": ["songstats", "music", "analytics", "mcp"]
 }
