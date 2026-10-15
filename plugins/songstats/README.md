@@ -28,6 +28,15 @@ Songstats Enterprise API agreement. Successful analytics reads retain the
 normal request, search, and object accounting of the agreement that serves the
 request.
 
+## Example prompts
+
+- Show my artist's streaming and playlist growth over the last 30 days, and
+  compare it with the previous 30 days.
+- Which tracks drove the biggest Spotify playlist gains for my label this
+  month?
+- Compare audience growth and top countries for two artists I can access over
+  the last 90 days.
+
 Privacy and terms are available at
 <https://songstats.com/privacy-policy> and
 <https://songstats.com/terms-of-service>. For setup or account support, contact
