@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "socialstats",
   "displayName": "Socialstats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze authorized creator, audience, social performance, public-content, and post data through Socialstats.",
   "author": {
     "name": "Stats Company",
@@ -10,7 +10,7 @@
     "url": "https://socialstats.com"
   },
   "homepage": "https://github.com/Songstats/claude-plugins/tree/main/plugins/socialstats",
-  "icon": ".claude-plugin/icon.png",
+  "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://socialstats.com/privacy-policy",
   "repository": "https://github.com/Songstats/claude-plugins",
   "documentationUrl": "https://github.com/Songstats/claude-plugins/tree/main/plugins/socialstats",

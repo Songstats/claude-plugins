@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "songstats",
   "displayName": "Songstats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze authorized music performance, catalog, audience, playlist, curator, and release data through Songstats.",
   "author": {
     "name": "Stats Company",
@@ -10,7 +10,7 @@
     "url": "https://songstats.com"
   },
   "homepage": "https://github.com/Songstats/claude-plugins/tree/main/plugins/songstats",
-  "icon": ".claude-plugin/icon.png",
+  "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://songstats.com/privacy-policy",
   "repository": "https://github.com/Songstats/claude-plugins",
   "documentationUrl": "https://github.com/Songstats/claude-plugins/tree/main/plugins/songstats",
